@@ -1,0 +1,7 @@
+__pycache__/
+src/v1/
+src/v2/
+src/v3/
+src/dev3d.html
+build_fonts/*.ttf
+dist/convite-v2-anterior.html
